@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\user\Desktop\Алгоритмизация\LR5\LR5\Source.c(13,5): warning C4550: вычисление выражения дает функцию, в которой отсутствует список аргументов
+C:\Users\user\Desktop\Алгоритмизация\LR5\LR5\Source.c(34,1): warning C4716: zad2: должна возвращать значение
+C:\Users\user\Desktop\Алгоритмизация\LR5\LR5\Source.c(18,1): warning C4716: zad1: должна возвращать значение
+C:\Users\user\Desktop\Алгоритмизация\LR5\LR5\Source.c(50,1): warning C4716: zad3: должна возвращать значение
+  LR5.vcxproj -> C:\Users\user\Desktop\Алгоритмизация\LR5\x64\Debug\LR5.exe
